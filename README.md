@@ -15,7 +15,7 @@ A preguntas tontas...respuestas simples: **¡PARA APRENDER MARKDOWN!**
 ## BUENO YA ME HAS VENDIDO LA MOTO, DIME AHORA DE QUE VA, EL CONTENIDO... ALGO DE CHICHA. 
 
 Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corregimos las tareas que se suben, junto con la teoría, a la **plataforma virtual**. El curso se divide en **Sprints**, el primero acabó el sábado 10 de febrero de 2024.
-> **CONTENIDO DEL CURSO**
+> **CONTENIDO DEL CURSO**  
 Por cierto, puedes ver las prácticas obligatorias y no obligatorias en este repositorio. Solo búscalas y si ves algo que creas oportuno comentar conmigo, hazlo. Coméntamelo.
 >> **1º SPRINT**
 >>> - **UNIDAD 1**: INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB.
