@@ -17,7 +17,7 @@ A preguntas tontas...respuestas simples: **¡PARA APRENDER MARKDOWN!**
 Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corregimos las tareas que se suben, junto con la teoría, a la **plataforma virtual**. El curso se divide en **Sprints**, el primero acabó el sábado 10 de febrero de 2024.
 > **CONTENIDO DEL CURSO**
 >> **1º SPRINT**
->>> - INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB.
->>> - INTRODUCCIÓN A PYTHON.
->>> - INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL.
+>>> - **UNIDAD 1**: INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB.
+>>> - **UNIDAD 2:** INTRODUCCIÓN A PYTHON.
+>>> - **UNIDAD 3**: INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL.
 
