@@ -5,7 +5,7 @@
 Si quieres, [haz clic y podrás ver mi cuenta.](https://www.linkedin.com/in/pepereina/)
 
 
-## OK, LO ENTIENDO... EN ESTE REPOSITORIO ENTREGARÁS TUS PRÁCTICAS... ¿PERO Y ESTE README?
+### OK, LO ENTIENDO... EN ESTE REPOSITORIO ENTREGARÁS TUS PRÁCTICAS... ¿PERO Y ESTE README?
 <img src="./imagenes/yo.jpeg" width=200> 
 <span style="color:gray; font-size: smaller;">*IMAGÉN CREADA CON INTELIGIENCIA ARTIFICIAL*</span>
 
