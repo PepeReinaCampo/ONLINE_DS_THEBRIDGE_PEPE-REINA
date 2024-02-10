@@ -5,7 +5,7 @@
 Si quieres, [haz clic y podrás ver mi cuenta.](https://www.linkedin.com/in/pepereina/)
 
 ## OK, LO ENTIENDO... EN ESTE REPOSITORIO ENTREGARÁS TUS PRÁCTICAS... ¿PERO Y ESTE README?
-><img src="./imagenes/yo.jpEg" width =400> A preguntas tontas, respuestas simples: **PARA APRENDER MARKDOWN**
+><img src="./imagenes/yo.jpeg" width =400> A preguntas tontas, respuestas simples: **PARA APRENDER MARKDOWN**
 
 
 
