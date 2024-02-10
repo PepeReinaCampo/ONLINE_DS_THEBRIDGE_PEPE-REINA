@@ -23,5 +23,4 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **UNIDAD 1**: INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB.
 >>> - **UNIDAD 2:** INTRODUCCIÓN A PYTHON.
 >>> - **UNIDAD 3**: INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL.  
-
 >> **2º SPRINT**
