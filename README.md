@@ -22,7 +22,7 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >> **1º SPRINT**
 >>> - **UNIDAD 1**: INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB. 🚀📊🔍
 >>> - **UNIDAD 2:** INTRODUCCIÓN A PYTHON. 🐍🐍🐍
->>> - **UNIDAD 3**: INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL. ⚒️⛏️🪓
+>>> - **UNIDAD 3**: INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL EN PYTHON. ⚒️⛏️🪓
 
 >>> **Comentarios del sprint:** En la pizeria, del ejercio de python [(UNIDAD 2)](https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint%201/Unidad_2_python/Challenge%202%20obligatorio), las familiares eran más baratas que las medianas. 
 
