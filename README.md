@@ -10,15 +10,14 @@ Si quieres, [haz clic y podrás ver mi cuenta.](https://www.linkedin.com/in/pepe
 <img src="./imagenes/yo.jpeg" width=210><sub><sup>  
 *IMAGEN CREADA CON INTELIGENCIA ARTIFICIAL.* </sup></sub>  
 
-A preguntas tontas...respuestas simples: **¡PARA APRENDER MARKDOWN!**
+A preguntas tontas...respuestas simples: **¡PARA APRENDER MARKDOWN!.**
 
 ## BUENO YA ME HAS VENDIDO LA MOTO, DIME AHORA DE QUE VA, EL CONTENIDO... ALGO DE CHICHA. 
 
 Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corregimos las tareas que se suben, junto con la teoría, a la **plataforma virtual**. El curso se divide en **Sprints**, el primero acabó el sábado 10 de febrero de 2024.
+>Por cierto, puedes ver las prácticas obligatorias y no obligatorias en este repositorio. Solo búscalas y si ves algo que creas oportuno comentar conmigo, hazlo. Coméntamelo.
 > **CONTENIDO DEL CURSO**  
-Por cierto, puedes ver las prácticas obligatorias y no obligatorias en este repositorio. Solo búscalas y si ves algo que creas oportuno comentar conmigo, hazlo. Coméntamelo.
 >> **1º SPRINT**
 >>> - **UNIDAD 1**: INTRODUCCIÓN A MARKDOWN, JUPYTER, GIT Y GIYHUB.
 >>> - **UNIDAD 2:** INTRODUCCIÓN A PYTHON.
 >>> - **UNIDAD 3**: INTRODUCCIÓN A TOOLS Y FLUJOS DE CONTROL.
-
