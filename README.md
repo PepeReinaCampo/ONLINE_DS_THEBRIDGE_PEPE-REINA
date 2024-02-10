@@ -5,7 +5,10 @@
 Si quieres, [haz clic y podrás ver mi cuenta.](https://www.linkedin.com/in/pepereina/)
 
 ## OK, LO ENTIENDO... EN ESTE REPOSITORIO ENTREGARÁS TUS PRÁCTICAS... ¿PERO Y ESTE README?
-<div style="float: right;"><img src="./imagenes/yo.jpeg" width=200></div>  A preguntas tontas, respuestas simples: **PARA APRENDER MARKDOWN**
+<div style="display: flex; align-items: center;">
+    <img src="./imagenes/yo.jpeg" width=200 style="margin-right: 20px;">
+    <p>A preguntas tontas, respuestas simples: **PARA APRENDER MARKDOWN**</p>
+</div>
 
 
 
