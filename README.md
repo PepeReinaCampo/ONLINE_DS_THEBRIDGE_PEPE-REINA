@@ -6,7 +6,10 @@ Si quieres, [haz clic y podrás ver mi cuenta.](https://www.linkedin.com/in/pepe
 
 
 ## OK, LO ENTIENDO... EN ESTE REPOSITORIO ENTREGARÁS TUS PRÁCTICAS... ¿PERO Y ESTE README?
-<img src="./imagenes/yo.jpeg" width=200> A preguntas tontas...  
-respuestas simples: **PARA APRENDER MARKDOWN**
+<img src="./imagenes/yo.jpeg" width=200> 
+<span style="color:gray; font-size: smaller;">*IMAGÉN CREADA CON INTELIGIENCIA ARTIFICIAL*</span>
 
+A preguntas tontas...  
+respuestas simples: **¡PARA APRENDER MARKDOWN!**
 
+### BUENO YA ME HAS VENDIDO LA MOTO, DIME AHORA DE QUE VA, EL CONTENIDO... ALGO DE CHICHA. 
