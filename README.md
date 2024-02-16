@@ -26,5 +26,5 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >
 >> **2º SPRINT**
 >>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES.
->>> - **UNIDAD 2:** 
->>> - **UNIDAD 3**: 
+>>> - **UNIDAD 2:** PYTHON BASIC II: MODULOS Y OOP.
+>>> - **EXAMEN 3**
