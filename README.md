@@ -29,4 +29,4 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **UNIDAD 2**: PYTHON BASIC II: MODULOS Y OOP.
 >>> - **EXAMEN 3**
 >>> - **CAREER READNINESS**
->>> - >>> - **COMENTARIOS DEL SPRINT**
+>>> - **COMENTARIOS DEL SPRINT**
