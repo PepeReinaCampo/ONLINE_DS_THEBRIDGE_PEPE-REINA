@@ -25,8 +25,8 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **COMENTARIOS DEL SPRINT** En la pizeria, del ejercio de python [(UNIDAD 2)](https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint%201/Unidad_2_python/Challenge%202%20obligatorio), las familiares eran más baratas que las medianas.  
 >
 >> **2º SPRINT**
->>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES.
->>> - **UNIDAD 2**: PYTHON BASIC II: MODULOS Y OOP.
->>> - **EXAMEN 3**
->>> - **CAREER READNINESS**
+>>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES. 📚⚙️🔄🔀
+>>> - **UNIDAD 2**: PYTHON BASIC II: MODULOS Y OOP. 🔃📦🧰
+>>> - **EXAMEN 3** 📝📚⏰
+>>> - **CAREER READINESS** 🎓 🌐🚀
 >>> - **COMENTARIOS DEL SPRINT**
