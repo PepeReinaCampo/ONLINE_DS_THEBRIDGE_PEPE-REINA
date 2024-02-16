@@ -28,5 +28,5 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES. 📚⚙️🔄🔀
 >>> - **UNIDAD 2**: PYTHON BASIC II: MODULOS Y OOP. 🔃📦🧰
 >>> - **EXAMEN 3** 📝📚⏰
->>> - **CAREER READINESS** 🎓 🌐🚀
->>> - **COMENTARIOS DEL SPRINT**
+>>> - **CAREER READINESS** 🎓🌐🚀
+>>> - **COMENTARIOS DEL SPRINT** La gente tenía miedo de suspender. 😱😱😱
