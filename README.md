@@ -30,3 +30,11 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **EXAMEN 3** 📝📚⏰
 >>> - [**CAREER READINESS**]( https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint_2/CARRER%20READINESS)🎓🌐🚀      
 >>> - **COMENTARIOS DEL SPRINT** → La gente tenía miedo de suspender. 😱😱😱
+>
+>> **3 º SPRINT**
+>>> - **SPRINT WARM-UP**: INTRODUCCIÓN AL SPRINT 3 - ÁLGEBRA Y NUMPY 🏃‍♂️ 🔥
+>>> - **UNIDAD 1**: PYTHON BASIC IV Y HERRAMIENTAS AVANZADAS: NUMPY I  
+>>> - **UNIDAD 2**: HERRAMIENTAS AVANZADAS: NUMPY II 🧮📈🌐
+>>> - **UNIDAD 3**: TEAM CHALLENGE 👥🎯🏆
+>>> - [**CAREER READINESS**]( https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint_2/CARRER%20READINESS)🎓🌐🚀      
+>>> - **COMENTARIOS DEL SPRINT** → 
