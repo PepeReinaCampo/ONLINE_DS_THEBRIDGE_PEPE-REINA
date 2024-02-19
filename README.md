@@ -25,8 +25,16 @@ Es un curso **online**, tenemos **clases** 3 veces por semana en las cuales corr
 >>> - **COMENTARIOS DEL SPRINT** → En la pizeria, del ejercio de python [(UNIDAD 2)](https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/blob/main/Sprint%20_1/Unidad_2_python/Challenge%202%20obligatorio/13_Practica_Obligatoria_Python_Basics_I.ipynb), las familiares eran más baratas que las medianas.  
 >
 >> **2º SPRINT**
->>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES. 📚⚙️🔄🔀
+>>> - **UNIDAD 1**: PYTHON BASIC II: COLECIONES Y FUNCIONES. 📚⚙️🔄🔀  
 >>> - **UNIDAD 2**: PYTHON BASIC II: MODULOS Y OOP. 🔃📦🧰
 >>> - **EXAMEN 3** 📝📚⏰
->>> - **CAREER READINESS** 🎓🌐🚀
+>>> - [**CAREER READINESS**]( https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint_2/CARRER%20READINESS)🎓🌐🚀      
 >>> - **COMENTARIOS DEL SPRINT** → La gente tenía miedo de suspender. 😱😱😱
+>
+>> **3 º SPRINT**
+>>> - **SPRINT WARM-UP**: INTRODUCCIÓN AL SPRINT 3 - ÁLGEBRA Y NUMPY 🏃‍♂️ 🔥
+>>> - **UNIDAD 1**: PYTHON BASIC IV Y HERRAMIENTAS AVANZADAS: NUMPY I  
+>>> - **UNIDAD 2**: HERRAMIENTAS AVANZADAS: NUMPY II 🧮📈🌐
+>>> - **UNIDAD 3**: TEAM CHALLENGE 👥🎯🏆
+>>> - [**CAREER READINESS**]( https://github.com/PepeReinaCampo/ONLINE_DS_THEBRIDGE_PEPE-REINA/tree/main/Sprint_2/CARRER%20READINESS)🎓🌐🚀      
+>>> - **COMENTARIOS DEL SPRINT** → 
