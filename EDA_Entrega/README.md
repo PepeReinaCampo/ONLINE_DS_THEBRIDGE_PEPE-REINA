@@ -12,7 +12,7 @@
 # **INTRODUCCIÓN**
 > ## En la **introducción** de la presentación de este **EDA**, comenzaré presentando los datos y mostrando generalidades. El **objetivo** es destacar algunos **hechos históricos** relevantes, como el **confinamiento** de 2020, la **borrasca Filomena** que devastó Madrid en 2021, y un tema recurrente , **Madrid** en verano se queda **vacia**. Todo esto será respaldado por los **datos** proporcionados por la Empresa Municipal de Transportes de Madrid, S.A. (**"EMT"**). Sin embargo, no pretendo demostrar ni refutar **hipótesis** en esta etapa inicial.  
 >>La Empresa Municipal de Transportes de Madrid (también conocida como EMT Madrid) es una empresa pública que, desde 1947, da servicio de transporte público de superficie en la ciudad de Madrid (España). Pertenece en su totalidad al ayuntamiento de esta ciudad.  
-<img src="Jupyter/IA/EMT.png" alt="Texto alternativo" style="width:100px;height:100px;border-radius:20px;">  
+<img src="src/notebooks/IA/EMT.png" alt="Texto alternativo" style="width:100px;height:100px;border-radius:20px;">  
 > 
 <br>
 
